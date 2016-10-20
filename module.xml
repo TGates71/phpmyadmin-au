@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <module>
 <name>phpMyAdmin-AU</name>
-<version>111</version>
+<version>121</version>
 <type>user</type>
 <defaultcat>Database Management</defaultcat>
 <desc>phpMyAdmin-AU is a web based tool that enables you to manage your Sentora MySQL databases via the web. (Auto-update version)</desc>
 <authorname>Sentora Project</authorname>
 <authoremail>tgates@sentora.org</authoremail>
 <authorurl>http://www.sentora.org/</authorurl>
-<updateurl>http://zppy-repo.mach-hosting.com/phpmyadmin-au.xml</updateurl>
+<updateurl>http://zppy-repo.mach-hosting.com/repo/phpmyadmin-au.xml</updateurl>
 </module>

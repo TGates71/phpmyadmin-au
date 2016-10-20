@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <updateserver>
 	<modulename>phpMyAdmin-AU</modulename>
-	<latestversion>111</latestversion>
-	<downloadurl>http://zppy-repo.mach-hosting.com/phpmyadmin-au.zpp</downloadurl>
+	<latestversion>121</latestversion>
+	<downloadurl>http://zppy-repo.mach-hosting.com/repo/phpmyadmin-au.zpp</downloadurl>
 	<desc>phpMyAdmin-AU is a web based tool that enables you to manage your Sentora MySQL databases via the web. (Auto-update version)</desc>
-	<updatedesc>Updated module for Sentora Panel.</updatedesc>
+	<updatedesc>Added minimum requirements check if installed on server with PHP and MySQL lower than 5.5.0.</updatedesc>
 	<authorname>T.Gates & VJFTW</authorname>
 	<authoremail>tgates@mach-hosting.com</authoremail>
 	<authorurl>http://www.sentora.org</authorurl>
